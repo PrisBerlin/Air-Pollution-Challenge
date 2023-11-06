@@ -108,7 +108,11 @@ python example_files/train.py
 In order to test that predict works on a test set you created run:
 
 ```bash
-python example_files/predict.py models/linear_regression_model.sav data/X_test.csv data/y_test.csv
+pyenv local 3.11.3
+python -m venv .venv
+source .venv/bin/activate
+pip install --upgrade pip
+pip install -r requirements.txt
 ```
 
 ## Limitations
