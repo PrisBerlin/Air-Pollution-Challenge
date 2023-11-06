@@ -10,11 +10,11 @@ The project is providing transparent air quality information for more than 100 c
 
 ## Starting to work
 
-> Chat created
-> Data.zip added
-> Workflow created
-> Kanban Board created
-> Repos
+- Chat created
+- Data.zip added
+- Workflow created
+- Kanban Board created
+- Repos
 
 ## Place ID Measures
 
