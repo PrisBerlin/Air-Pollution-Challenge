@@ -1,6 +1,6 @@
-# Air Pollution Challange
+# Air Pollution Challenge
 
-Goal of this chanllages is to predict PM2.5 particulate matter concentration in the air every day for each city. The data covers the last three months, spanning hundreds of cities across the globe.
+Goal of this challenges is to predict PM2.5 particulate matter concentration in the air every day for each city. The data covers the last three months, spanning hundreds of cities across the globe.
 
 ---
 
