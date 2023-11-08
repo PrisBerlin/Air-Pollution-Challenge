@@ -16,18 +16,22 @@ The project is providing transparent air quality information for more than 100 c
 - Kanban Board created
 - Repos
 
-## Place ID Measures
+## PM2.5 Measures
 
+Key indicator of air quality
 
+## Baseline model
 
-## Date Measures
+Assupmtion: wind magnitude and air pollution are related
 
+## Evaluation metric
 
+Root Mean Squared Error (train & test)
 
-## Target Measures
+## Predictive models
 
-
-
+- XGBoost
+- Random Rorest
 
 ## Requirements and Environment
 
